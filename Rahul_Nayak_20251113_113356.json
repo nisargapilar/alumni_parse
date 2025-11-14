@@ -1,0 +1,51 @@
+{
+  "fullName": "Rahul Nayak",
+  "headline": "IT Administrator @Numocity",
+  "location": "Bengaluru, Karnataka, India",
+  "profileUrl": "https://www.linkedin.com/in/rahul-nayak-512195222",
+  "photoUrl": "https://media.licdn.com/dms/image/v2/D5603AQHgKGYae354IQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1731046528675?e=1762992000&v=beta&t=IOAYMgf_dbqFfPT7XqFpWKTBZNPx1wyUF4tIoZSEjOg",
+  "about": "",
+  "designation": "Information Technology System Administrator",
+  "positions": [
+    {
+      "title": "Information Technology System Administrator",
+      "company": "Numocity",
+      "location": "Bengaluru, Karnataka, India",
+      "startDate": "Mar 2024",
+      "endDate": null,
+      "description": ""
+    }
+  ],
+  "educations": [
+    {
+      "school": "Canara Engineering College",
+      "degree": "Associate's degree",
+      "field": "Electrical, Electronics and Communications Engineering",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "services": [],
+  "skills": [
+    "Circuit Design",
+    "Microcontrollers",
+    "Canara Engineering College",
+    "Runners-up Hackathon",
+    "PCB Designing",
+    "Tunnel Communication",
+    "Home automation"
+  ],
+  "certifications": [
+    "C programming",
+    "IEEE Extreme Hackathon"
+  ],
+  "websites": [
+    "http://www.numocity.com/",
+    "http://spkl.io/60434huBT"
+  ],
+  "patents": [],
+  "recommendations": {
+    "received": [],
+    "given": []
+  }
+}

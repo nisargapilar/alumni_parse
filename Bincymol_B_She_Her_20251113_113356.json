@@ -1,0 +1,86 @@
+{
+  "fullName": "Bincymol B (She/Her)",
+  "headline": "Python developer |Aspiring Data Scienctist |ML enthusiastic |RPA in Uipath|AI|Interested in Data Analytics",
+  "location": "Kollam, India",
+  "profileUrl": "https://www.linkedin.com/in/bincymol-b-708962209",
+  "photoUrl": "",
+  "about": "Hi......I am Bincymol B Passionate and driven Computer Science and Engineering graduate  eager to embark on a rewarding career in the tech industry. Equipped with a solid foundation in programming languages  understanding of how automation can streamline business processes and enhance efficiency. Proven ability to collaborate effectively in team environments, problem-solve creatively, and adapt to new challenges. Committed to continuous learning and staying updated with the latest advancements in technology. Seeking opportunities to contribute positively to innovative projects and make a meaningful impact in the field of computer science.",
+  "designation": "Graduate Apprentice Trainee",
+  "positions": [
+    {
+      "title": "Graduate Apprentice Trainee",
+      "company": "APJ Abdul Kalam Technological University",
+      "location": "Trivandrum, Kerala, India",
+      "startDate": "Mar 2025",
+      "endDate": null,
+      "description": ""
+    },
+    {
+      "title": "Data Science",
+      "company": "Edure",
+      "location": "Trivandrum, Kerala, India",
+      "startDate": "Oct 2024",
+      "endDate": "Aug 2025",
+      "description": "1000523337.jpg"
+    },
+    {
+      "title": "Data Science in Python",
+      "company": "DATAPY",
+      "location": "Trivandrum, Kerala, India",
+      "startDate": "May 2024",
+      "endDate": "Sep 2024",
+      "description": ""
+    },
+    {
+      "title": "RPA in UiPath",
+      "company": "ICT Academy of Kerala",
+      "location": "Hybrid",
+      "startDate": "Sep 2023",
+      "endDate": "Sep 2023",
+      "description": ""
+    },
+    {
+      "title": "Web development using Java Technologies",
+      "company": "jThread",
+      "location": "Hybrid",
+      "startDate": "Feb 2023",
+      "endDate": "Feb 2023",
+      "description": ""
+    }
+  ],
+  "educations": [
+    {
+      "school": "Baselios Mathews II College of Engineering",
+      "degree": "B-Tech",
+      "field": "Computer Science",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "school": "APJ Abdul Kalam Technological University",
+      "degree": "B -Tech",
+      "field": "Computer Science",
+      "startDate": "2020",
+      "endDate": "2024"
+    }
+  ],
+  "services": [
+    "Web Development",
+    "Business Analytics"
+  ],
+  "skills": [
+    "IT SUPPORT",
+    "Image Processing",
+    "Data Science at Edure"
+  ],
+  "certifications": [
+    "Cybersecurity Webinar",
+    "ICCPCT-2023"
+  ],
+  "websites": [],
+  "patents": [],
+  "recommendations": {
+    "received": [],
+    "given": []
+  }
+}

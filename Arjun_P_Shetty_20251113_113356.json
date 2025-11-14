@@ -1,0 +1,61 @@
+{
+  "fullName": "Arjun P Shetty",
+  "headline": "Attending Alva's Institute of Engineering and Technology",
+  "location": "Mangaluru, Karnataka, India",
+  "profileUrl": "https://www.linkedin.com/in/arjunpshetty",
+  "photoUrl": "file://C:\\Users\\USER\\linkedin\\new_code\\input\\(25) Arjun P Shetty _ LinkedIn_files\\1753973247558",
+  "about": "As a passionate Electronics and Communication Engineering student, I am driven by a curiosity for emerging technologies like IoT, embedded systems, and wireless communication. With hands-on experience in circuit design, microcontroller programming, and signal processing, I am eager to apply my skills to solve real-world challenges. I thrive in collaborative environments, where innovation and problem-solving are at the core. My goal is to contribute to cutting-edge projects in telecommunications, robotics, or embedded systems, while continuously expanding my technical knowledge and skills. I am excited about the future of ECE and my role in shaping it.",
+  "designation": "Alva's Institute of Engineering and Technology",
+  "positions": [
+    {
+      "title": "Alva's Institute of Engineering and Technology",
+      "company": "Bachelor of Engineering - BE, Electrical, Electronics and Communications Engineering",
+      "location": "",
+      "startDate": "Sep 2023",
+      "endDate": "Sep 2027",
+      "description": ""
+    },
+    {
+      "title": "Alva's College, Moodabidri, Karnataka",
+      "company": "Pre-university, PCME",
+      "location": "",
+      "startDate": "Jun 2021",
+      "endDate": "Jun 2023",
+      "description": ""
+    }
+  ],
+  "educations": [
+    {
+      "school": "Alva's Institute of Engineering and Technology",
+      "degree": "Bachelor of Engineering - BE",
+      "field": "Electrical, Electronics and Communications Engineering",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "school": "Alva's College, Moodabidri, Karnataka",
+      "degree": "Pre-university",
+      "field": "PCME",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "services": [],
+  "skills": [
+    "Network Analyzers (Electrical)",
+    "Application-Specific Integrated Circuits (ASIC)",
+    "Alva's Institute of Engineering and Technology"
+  ],
+  "certifications": [
+    "Digital Signal Processing",
+    "Getting Started with AI on Jetson Nano"
+  ],
+  "websites": [
+    "https://github.com/ArjunPShetty"
+  ],
+  "patents": [],
+  "recommendations": {
+    "received": [],
+    "given": []
+  }
+}

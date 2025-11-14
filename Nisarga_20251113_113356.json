@@ -1,0 +1,47 @@
+{
+  "fullName": "Nisarga .",
+  "headline": "Passionate about problem solving and always trying to improve myself!",
+  "location": "Mangaluru, Karnataka, India",
+  "profileUrl": "https://www.linkedin.com/in/nisarga-8221652a4",
+  "photoUrl": "file://C:\\Users\\USER\\linkedin\\new_code\\input\\(7) Nisarga . _ LinkedIn_files\\1730551825611",
+  "about": "hashtag",
+  "designation": "Canara Engineering College",
+  "positions": [
+    {
+      "title": "Canara Engineering College",
+      "company": "Bachelor of Engineering - BE, Cse",
+      "location": "",
+      "startDate": "Dec 2023",
+      "endDate": "Dec 2027",
+      "description": ""
+    }
+  ],
+  "educations": [
+    {
+      "school": "Canara Engineering College",
+      "degree": "Bachelor of Engineering - BE",
+      "field": "Cse",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "school": "Canara Engineering College",
+      "degree": "Bachelor of Technology - BTech",
+      "field": "Computer Science",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "services": [],
+  "skills": [
+    "Java",
+    "Node.js"
+  ],
+  "certifications": [],
+  "websites": [],
+  "patents": [],
+  "recommendations": {
+    "received": [],
+    "given": []
+  }
+}

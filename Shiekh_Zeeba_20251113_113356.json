@@ -1,0 +1,64 @@
+{
+  "fullName": "Shiekh Zeeba",
+  "headline": "Systems Engineer @TCS | Ex-DXC Technology",
+  "location": "Karnataka, India",
+  "profileUrl": "https://www.linkedin.com/in/shiekh-zeeba",
+  "photoUrl": "file://C:\\Users\\USER\\linkedin\\new_code\\input\\(7) Shiekh Zeeba _ LinkedIn_files\\1680935443656",
+  "about": "",
+  "designation": "System Engineer",
+  "positions": [
+    {
+      "title": "System Engineer",
+      "company": "Tata Consultancy Services",
+      "location": "",
+      "startDate": "Oct 2023",
+      "endDate": null,
+      "description": ""
+    },
+    {
+      "title": "",
+      "company": "DXC Technology",
+      "location": "",
+      "startDate": "Oct 2022",
+      "endDate": null,
+      "description": ""
+    },
+    {
+      "title": "Professional 1 System Administrator",
+      "company": "DXC Technology",
+      "location": "",
+      "startDate": "Oct 2022",
+      "endDate": null,
+      "description": ""
+    },
+    {
+      "title": "Associate Professional Software Engineer",
+      "company": "DXC Technology",
+      "location": "",
+      "startDate": "Aug 2020",
+      "endDate": null,
+      "description": ""
+    }
+  ],
+  "educations": [
+    {
+      "school": "Canara Engineering College",
+      "degree": "BE - Bachelor of Engineering",
+      "field": "Electrical, Electronics and Communications Engineering",
+      "startDate": "2016",
+      "endDate": "2020"
+    }
+  ],
+  "services": [],
+  "skills": [
+    "Git",
+    "Microsoft Azure"
+  ],
+  "certifications": [],
+  "websites": [],
+  "patents": [],
+  "recommendations": {
+    "received": [],
+    "given": []
+  }
+}

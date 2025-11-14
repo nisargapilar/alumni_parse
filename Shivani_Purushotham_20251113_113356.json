@@ -1,0 +1,40 @@
+{
+  "fullName": "Shivani Purushotham",
+  "headline": "SAP ABAP Consultant",
+  "location": "Karnataka, India",
+  "profileUrl": "https://www.linkedin.com/in/shivani-purushotham",
+  "photoUrl": "file://C:\\Users\\USER\\linkedin\\new_code\\input\\(7) Shivani Purushotham _ LinkedIn_files\\1741269174523",
+  "about": "",
+  "designation": "Assistant System Engineer",
+  "positions": [
+    {
+      "title": "Assistant System Engineer",
+      "company": "Tata Consultancy Services",
+      "location": "",
+      "startDate": "Oct 2022",
+      "endDate": null,
+      "description": ""
+    }
+  ],
+  "educations": [
+    {
+      "school": "Canara Engineering College",
+      "degree": "Bachelor of Engineering - BE",
+      "field": "information science engineering",
+      "startDate": "2018",
+      "endDate": "2022"
+    }
+  ],
+  "services": [],
+  "skills": [
+    "SAP Products",
+    "SAP ERP"
+  ],
+  "certifications": [],
+  "websites": [],
+  "patents": [],
+  "recommendations": {
+    "received": [],
+    "given": []
+  }
+}

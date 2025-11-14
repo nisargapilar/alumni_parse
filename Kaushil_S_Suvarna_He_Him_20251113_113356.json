@@ -1,0 +1,52 @@
+{
+  "fullName": "Kaushil S Suvarna (He/Him)",
+  "headline": "Computer Science And Design at Canara Engineering College, Mangalore",
+  "location": "Mangaluru, Karnataka, India",
+  "profileUrl": "https://www.linkedin.com/in/kaushil-s-suvarna-b45b66262",
+  "photoUrl": "",
+  "about": "Secure Remote Command Executor",
+  "designation": "Development",
+  "positions": [
+    {
+      "title": "Development",
+      "company": "Sasken Technologies Limited",
+      "location": "Mangaluru, Karnataka, India",
+      "startDate": "Jun 2025",
+      "endDate": "Jul 2025",
+      "description": "Secure Remote Command Executor"
+    }
+  ],
+  "educations": [
+    {
+      "school": "Canara Engineering College",
+      "degree": "Bachelor of Engineering in Computer Science and Design",
+      "field": "Computer Science and Design",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "school": "St. Aloysius (Deemed to be University), Mangaluru",
+      "degree": "Jun 2020",
+      "field": "May 2022",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "services": [],
+  "skills": [
+    "Software Industry",
+    "JavaScript"
+  ],
+  "certifications": [
+    "Google AI Essentials",
+    "Java Training"
+  ],
+  "websites": [
+    "https://coursera.org/verify/92T56F3CI80J"
+  ],
+  "patents": [],
+  "recommendations": {
+    "received": [],
+    "given": []
+  }
+}

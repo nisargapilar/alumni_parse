@@ -1,0 +1,20 @@
+{
+  "fullName": "LinkedIn",
+  "headline": "",
+  "location": "",
+  "profileUrl": "",
+  "photoUrl": "",
+  "about": "",
+  "designation": "",
+  "positions": [],
+  "educations": [],
+  "services": [],
+  "skills": [],
+  "certifications": [],
+  "websites": [],
+  "patents": [],
+  "recommendations": {
+    "received": [],
+    "given": []
+  }
+}

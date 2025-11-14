@@ -1,0 +1,37 @@
+{
+  "fullName": "Prajwal Naik",
+  "headline": "Delivery Consultant @IBM , Technology Expert Labs, Bangalore | Bachelor of Engineering (B.E) in Computer Science and Engineering @ Canara Engineering College, Mangalore",
+  "location": "Honavar, Karnataka, India",
+  "profileUrl": "https://www.linkedin.com/in/prajwalnaik15",
+  "photoUrl": "file://C:\\Users\\USER\\linkedin\\new_code\\input\\(7) Prajwal Naik _ LinkedIn_files\\1743154931694",
+  "about": "",
+  "designation": "Intern",
+  "positions": [
+    {
+      "title": "Intern",
+      "company": "IBM",
+      "location": "Bengaluru, Karnataka, India",
+      "startDate": "Mar 2025",
+      "endDate": null,
+      "description": ""
+    }
+  ],
+  "educations": [
+    {
+      "school": "Canara Engineering College",
+      "degree": "Bachelor of Engineering - BE",
+      "field": "Computer Science",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "services": [],
+  "skills": [],
+  "certifications": [],
+  "websites": [],
+  "patents": [],
+  "recommendations": {
+    "received": [],
+    "given": []
+  }
+}

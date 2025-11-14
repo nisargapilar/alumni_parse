@@ -1,0 +1,52 @@
+{
+  "fullName": "Ahmad Muaaz",
+  "headline": "Data Scientist || Data Analyst || Python developer || C++ and Java Programmer || Machine Learning || Deep Learning || R",
+  "location": "Lahore, Punjab, Pakistan",
+  "profileUrl": "https://www.linkedin.com/in/ahmad-muaaz-339763288",
+  "photoUrl": "file://C:\\Users\\USER\\linkedin\\new_code\\input\\(9) Ahmad Muaaz _ LinkedIn_files\\1743701380679",
+  "about": "",
+  "designation": "Cyber Security Analyst",
+  "positions": [
+    {
+      "title": "Cyber Security Analyst",
+      "company": "Amazon, Google, and Microsoft Careers",
+      "location": "Lahore, Punjab, Pakistan",
+      "startDate": "Apr 2025",
+      "endDate": null,
+      "description": "I served 6 months as a game developer, then next 6 months as a ethical hacker in a local company with my other friends and members named as Alpha Algorithm"
+    }
+  ],
+  "educations": [
+    {
+      "school": "COMSATS Institute of Information and Technology",
+      "degree": "BS Robotics",
+      "field": "python expert",
+      "startDate": "2017",
+      "endDate": "2023"
+    }
+  ],
+  "services": [
+    "Brand Design",
+    "Animation",
+    "Ad Design",
+    "3D Design",
+    "Illustration",
+    "Logo Design",
+    "Presentation Design",
+    "Print Design",
+    "Food Photography",
+    "Video Editing"
+  ],
+  "skills": [
+    "SQL",
+    "Seaborn",
+    "COMSATS Institute of Information and Technology"
+  ],
+  "certifications": [],
+  "websites": [],
+  "patents": [],
+  "recommendations": {
+    "received": [],
+    "given": []
+  }
+}

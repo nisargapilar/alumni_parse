@@ -1,0 +1,48 @@
+{
+  "fullName": "Prateek Sangle (He/Him)",
+  "headline": "Immediate Joiner | Production Support Engineer | 3 Yrs in SQL, Unix, Shell Scripting | Banking Domain | Incident Mgmt | L2 Support | ITIL | Immediate Joiner.",
+  "location": "Karnataka, India",
+  "profileUrl": "https://www.linkedin.com/in/prateek-sangle-a4bb591a2",
+  "photoUrl": "",
+  "about": "I am an experienced Production Support / Application Support Engineer with 3 years of hands-on experience in supporting mission-critical applications in the Banking domain.\n\nSkilled in SQL, Unix/Linux, Shell Scripting, and log analysis, I have worked on resolving real-time incidents, monitoring system performance, and ensuring high availability of applications.\n\nI have practical knowledge of tools like ServiceNow, JIRA, Grafana,Postman and have been involved in L1/L2 support, incident management, and root cause analysis (RCA).\n\nI’m used to working in 24x7 environments, handling batch failures, and coordinating with development and QA teams for quick issue resolution.\n\n✅ Immediate Joiner | 📍 Bengalore,Pune | 💼 Looking for Production/Application Support roles.",
+  "designation": "Software Engineer",
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "company": "HCLTech",
+      "location": "Pune, Maharashtra, India",
+      "startDate": "Aug 2022",
+      "endDate": "Sep 2025",
+      "description": ""
+    }
+  ],
+  "educations": [
+    {
+      "school": "REVA UNIVERSITY, BANGALORE",
+      "degree": "Bachelor of Technology - BTech",
+      "field": "eee",
+      "startDate": "2018",
+      "endDate": "2022"
+    },
+    {
+      "school": "Konnur science pu clg Yallatti",
+      "degree": "Jun 2016",
+      "field": "Jul 2018",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "services": [],
+  "skills": [
+    "Production Support",
+    "Oracle Database",
+    "Software Engineer at HCLTech"
+  ],
+  "certifications": [],
+  "websites": [],
+  "patents": [],
+  "recommendations": {
+    "received": [],
+    "given": []
+  }
+}

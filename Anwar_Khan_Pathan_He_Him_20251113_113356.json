@@ -1,0 +1,65 @@
+{
+  "fullName": "Anwar Khan Pathan (He/Him)",
+  "headline": "| UNIX | SQL | L1, L2 | Service Now | | Control-M | Networking | Troubleshooting | ITIL | Incident, Problem Management | | Job Scheduling monitoring | SLA | Application / Product Support Engineer with 2+yrs experience |",
+  "location": "Beed, Maharashtra, India",
+  "profileUrl": "https://www.linkedin.com/in/anwar-khan-pathan-a75899373",
+  "photoUrl": "",
+  "about": "",
+  "designation": "Application Support Engineer",
+  "positions": [
+    {
+      "title": "Application Support Engineer",
+      "company": "Amazon",
+      "location": "Work From Home",
+      "startDate": "May 2025",
+      "endDate": "Jun 2025",
+      "description": "Provided 24/7 support for enterprise applications using SQL and Unix-based systems.\nMonitored and managed job flows in Control-M, resolving job failures promptly to meet SLA targets.\nAnalyzed system logs, identified recurring issues, and worked with development teams for permanent fixes.\nCreated SQL scripts for reporting and ad hoc data extraction.\nMaintained documentation for processes and technical solutions.\nCollaborated with cross-functional teams during system outages and recovery"
+    },
+    {
+      "title": "Application Support Engineer",
+      "company": "Linen Software solution Pvt Ltd",
+      "location": "India",
+      "startDate": "Mar 2024",
+      "endDate": "May 2025",
+      "description": "Provided L1 and L2 support for SQL databases and Unix-based systems, ensuring high availability and performance.\nOptimized and automated job scheduling in Control-M, reducing processing time by 30%.\nInvestigated and resolved complex technical issues related to database performance, server slowdowns, and system failures.\nUtilized Unix commands for log analysis, system monitoring, and troubleshooting critical incidents.\nManaged and resolved Service-Now tickets within SLA, ensuring minimal downtime and business impact.\nDeveloped and executed SQL scripts for data extraction, reporting, and process automation.\nall processes follow card network rules, regulatory requirements, and internal policies."
+    },
+    {
+      "title": "Application Support Engineer",
+      "company": "Amazon",
+      "location": "India",
+      "startDate": "Jun 2023",
+      "endDate": "Jan 2024",
+      "description": "Provided 24/7 support for enterprise applications using SQL and Unix-based systems.\nMonitored and managed job flows in Control-M, resolving job failures promptly to meet SLA targets.\nAnalyzed system logs, identified recurring issues, and worked with development teams for permanent fixes.\nCreated SQL scripts for reporting and ad hoc data extraction.\nMaintained documentation for processes and technical solutions.\nCollaborated with cross-functional teams during system outages and recovery"
+    },
+    {
+      "title": "Support Specialist",
+      "company": "HDFC Life",
+      "location": "Indiana, United States",
+      "startDate": "Aug 2017",
+      "endDate": "Jul 2018",
+      "description": "Consistent Performance: Demonstrated consistent excellence in meeting and exceeding sales targets as a sales Manager.\nPunctuality and Reliability: Known for impeccable time management and reliability; consistently delivering on promises and commitments.\nTeam Performance: Recognized as a top performer within the team, setting benchmarks for excellence and dedication\nIncentive Awards: Regularly received incentives for outstanding performance, contributing to the company's growth and success.\nManager's First Choice: Highly regarded by management as a go-to team member for critical tasks and projects due to proven reliability and performance.\nAdaptability: Always ready and eager to take on new challenges and tasks. showcasing versatility and a proactive approach to work."
+    }
+  ],
+  "educations": [
+    {
+      "school": "Bilal high school",
+      "degree": "Yashwantrao",
+      "field": "Bsc In Computer",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "services": [],
+  "skills": [
+    "Active Directory",
+    "SQL",
+    "Application Support Engineer at Amazon"
+  ],
+  "certifications": [],
+  "websites": [],
+  "patents": [],
+  "recommendations": {
+    "received": [],
+    "given": []
+  }
+}

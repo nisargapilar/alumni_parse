@@ -1,0 +1,73 @@
+{
+  "fullName": "Meghna Singh",
+  "headline": "Analyst @ Eversana | Former Intern @ Porter | BIT Mesra",
+  "location": "Bengaluru, Karnataka, India",
+  "profileUrl": "https://www.linkedin.com/in/meghna-singh-b29088247",
+  "photoUrl": "file://C:\\Users\\USER\\linkedin\\new_code\\input\\(7) Meghna Singh _ LinkedIn_files\\1747931224865",
+  "about": "Hello! I'm Meghna Singh, a Chemical Engineering graduate from BIT Mesra, Ranchi, with a strong passion for data science, analytics, research, and consultancy. My journey has been shaped by impactful experiences at Eversana, Porter, DailyObjects and TATA Cummins, where I worked on diverse projects ranging from healthcare analytics and operational efficiency to product research and material characterization. These opportunities have honed my skills in Excel, SQL, Python, and Power BI, while also strengthening my problem-solving and strategic thinking abilities. I’m eager to leverage my technical background and analytical acumen to deliver innovative, data-driven solutions and make meaningful contributions in the world of analytics and consulting. Let’s connect and explore possibilities together!",
+  "designation": "Analyst",
+  "positions": [
+    {
+      "title": "Analyst",
+      "company": "EVERSANA",
+      "location": "Bengaluru, Karnataka, India",
+      "startDate": "Jul 2025",
+      "endDate": null,
+      "description": ""
+    },
+    {
+      "title": "Business Operations Intern",
+      "company": "Porter",
+      "location": "Bengaluru, Karnataka, India",
+      "startDate": "Dec 2024",
+      "endDate": "Jul 2025",
+      "description": ""
+    },
+    {
+      "title": "Business Consultant Intern",
+      "company": "DailyObjects",
+      "location": "Gurugram, Haryana, India",
+      "startDate": "Apr 2024",
+      "endDate": "Oct 2024",
+      "description": ""
+    },
+    {
+      "title": "Vocational Trainee",
+      "company": "Tata Cummins",
+      "location": "Jamshedpur, Jharkhand, India",
+      "startDate": "May 2024",
+      "endDate": "Jul 2024",
+      "description": ""
+    }
+  ],
+  "educations": [
+    {
+      "school": "Birla Institute of Technology, Mesra",
+      "degree": "Bachelor of Technology - BTech",
+      "field": "Chemical Engineering",
+      "startDate": "2021",
+      "endDate": "2025"
+    },
+    {
+      "school": "Little Flower School Jamshedpur",
+      "degree": "ISC",
+      "field": "",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "services": [],
+  "skills": [
+    "Cascading Style Sheets (CSS)",
+    "HTML",
+    "Endorsed by 1 person in the last 6 months",
+    "1 endorsement"
+  ],
+  "certifications": [],
+  "websites": [],
+  "patents": [],
+  "recommendations": {
+    "received": [],
+    "given": []
+  }
+}
